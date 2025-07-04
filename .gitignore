@@ -14,3 +14,4 @@ db.sqlite3
 Airflow/logs/*
 Airflow/plugins/*
 outline.md
+ML/Airbnb_Project/airflow_env
